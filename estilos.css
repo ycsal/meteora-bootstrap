@@ -5,3 +5,23 @@
 .divs-facilidades{
     width: 325px;
 }
+
+.facilidades-verde{
+    color: #DAFF01;
+    font-weight: bold;
+}
+
+.btn-lilas{
+    background-color: #9353FF;
+    color: white;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
